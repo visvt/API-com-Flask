@@ -19,7 +19,7 @@ source venv/Scripts/activate    # Windows (Git Bash)
 pip install -r requirements.txt
 
 # Rodar a aplicação
-python app.py
+python main.py
 ```
 
 ## 🗺️ Status
